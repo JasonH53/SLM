@@ -1,0 +1,34 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+#mod
+.mixin.out
+config
+crash-reports
+essential
+logs
+mods
+resourcepacks
+run
+saves
+screenshots

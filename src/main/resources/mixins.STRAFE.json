@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "me.strafe.Mixins",
+  "refmap": "mixins.STRAFE.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinNetworkManager"
+  ],
+  "client": [
+    "MixinNetHandlerPlayClient",
+    "MixinFontRenderer",
+    "MixinContainerGui"
+  ]
+}
